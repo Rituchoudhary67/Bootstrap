@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#nav {
+    /* padding:-10px; */
+    font-size: 1.2rem;
+}
+#Phool {
+    margin-left: 20px;
+    font-family: "Sevillana", cursive;
+    font-weight: 500;
+    font-size: 2.5rem;
+    font-style: normal;
+}
+.nav-link:hover {
+    margin-top: 10px;
+    text-decoration: 2px underline #B75279;
+    transition: all 1s;
+   
+  
+}
