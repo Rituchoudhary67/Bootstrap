@@ -31,6 +31,11 @@
     background-size: cover;
 }
 
-
+#shop_cat {
+    margin: 20px 0px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
 
 
