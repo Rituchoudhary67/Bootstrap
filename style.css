@@ -18,6 +18,19 @@
     margin-top: 10px;
     text-decoration: 2px underline #B75279;
     transition: all 1s;
-   
-  
 }
+
+#main_img img {
+   background-size:contain;
+   width: 100%;
+   height: 100vh;
+}
+
+.carousel-item img {
+    height: 100vh;
+    background-size: cover;
+}
+
+
+
+
